@@ -171,6 +171,7 @@ body{ background: rgb(0, 0, 0); overflow: hidden;}
   }
   .side {
     font-size: 6px;
+    margin-right: 20px;
     
   }
   .again {
